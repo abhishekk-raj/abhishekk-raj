@@ -14,7 +14,7 @@
 - 🌱 Always learn new web trends
 - 💞️ I’m looking to collaborate on React/React Native apps
 - 👀 I’m interested in creating complete web solutions
-- 📫 You can reach me at info@techoutopia.com
+- 📫 You can reach me at araj126@gmail.com
 
 <br>
 
